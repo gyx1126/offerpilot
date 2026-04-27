@@ -47,7 +47,7 @@ export const chatModels: ChatModel[] = [
   },
   {
     id: "moonshotai/kimi-k2.5",
-    name: "Kimi K2.5",
+    name: "OfferPilot AI",
     provider: "moonshotai",
     description: "Moonshot AI flagship model",
     gatewayOrder: ["fireworks", "bedrock"],

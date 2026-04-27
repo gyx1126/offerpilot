@@ -510,7 +510,7 @@ function PureMultimodalInput({
             }
           }}
           placeholder={
-            editingMessage ? "Edit your message..." : "Ask anything..."
+            editingMessage ? "Edit your message..." : "Paste a job description, resume, or interview question..."
           }
           ref={textareaRef}
           value={input}
